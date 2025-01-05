@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Benjamin Durange
+# 👋 Hello, World! I'm Benjamin Durange
 
 Welcome to my GitHub profile! I'm a Freelancing Software Developer passionate about software and networking, nuclear engineering, fluid API systems, and agile development.
 

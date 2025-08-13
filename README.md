@@ -7,30 +7,18 @@ Welcome to my GitHub profile! I'm a Freelancing Software Developer passionate ab
 ## 🚀 About Me
 
 - 🌟 **Strengths:** Active and Agile Learner, Creative Problem-Solving, Communicative, Detail-Oriented.
-- 💻 **Skills:** ASP.NET MVC and API Patterns, Next.js w/ Vue.js and Angular, Python and Rust Automation.
-- 🎓 **Education:** Currently studying for a Bachelor's in Computer and Information Sciences
+- 💻 **Skills:** ASP.NET MVC and API Patterns, Vue and Angular, Python and Rust Automation.
+- 🎓 **Education:** Currently studying for a Bachelor's in Nuclear Engineering and Health Physics
 - 🌎 **Location:** Pennsylvania, United States of America
 - 📫 **Contact:** Reach me at bdurange0525@gmail.com or connect on [LinkedIn](www.linkedin.com/in/benjamin-durange-403116292).
 
 ---
 
-## 📂 Featured Projects
-
-### [Isotralis](https://github.com/arson-diops/isotralis)
-**Description:** A specialized web application for nuclear power plants, streamlining surveys, air samples, and contamination records for Radiation Protection and Health Physics departments.  
-**Tech Stack:** ASP.NET, JavaScript, Oracle SQL
-
-### [RPLOGIC](https://github.com/arson-diops/rplogic)
-**Description:** An inventory and control application designed to document and log various issuances and returns of certain items of interest to a given group.
-**Tech Stack:** ASP.NET, JavaScript, Oracle SQL
-
----
-
 ## 🛠️ Tools and Technologies
 
-- **Programming Languages:** C#, Java, JavaScript, Python
-- **Frameworks and Libraries:** ASP.NET, Vue.js, Angular
-- **Databases:** Oracle SQL, MySQL, and PostgreSQL
+- **Programming Languages:** C#, Java, JavaScript, TypeScript, Python
+- **Frameworks and Libraries:** ASP.NET, Vue, Angular
+- **Databases:** Oracle SQL, MySQL, and PostgreSQL, MongoDB
 - **DevOps:** Git, Gradle, AWS and Docker, Kubernetes
 
 ---
